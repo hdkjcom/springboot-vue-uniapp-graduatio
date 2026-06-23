@@ -2,9 +2,6 @@
 
 > **SpringBoot + Vue + UniApp 全栈项目 | 微信小程序 | 计算机毕业设计优选**
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/6C5CE7/FFFFFF?text=泡泡互换+-+盲盒交换平台" alt="泡泡互换" width="800"/>
-</p>
 
 <p align="center">
   <b>🔴 已上线运行的真实项目</b> &nbsp;|&nbsp;
@@ -215,6 +212,7 @@
 | 工程文档 | API 文档 / 系统设计书 / 部署指南 |
 
 ---
+<img width="430" height="430" alt="微信图片_20260623160744_47_4" src="https://github.com/user-attachments/assets/2b3c6203-8fae-40c6-89c6-3ad5d26b4622" />
 
 ## 📱 功能截图
 
@@ -225,8 +223,7 @@
 <img width="585" height="1266" alt="微信图片_20260623160214_42_4" src="https://github.com/user-attachments/assets/708cfcf1-9111-45a1-b404-6881ff1b85df" />
 <img width="585" height="1266" alt="微信图片_20260623160216_43_4" src="https://github.com/user-attachments/assets/bb7a99b8-75a4-4537-aac6-b8ac5d48a169" />
 <img width="585" height="1266" alt="微信图片_20260623160218_44_4" src="https://github.com/user-attachments/assets/e16f7a50-405f-412d-a6de-b8070df22fdf" />
-
-
+<img width="585" height="1266" alt="微信图片_20260623160220_45_4" src="https://github.com/user-attachments/assets/78f5c9c3-64f1-4ac4-a340-83e94b7d6867" />
 
 ### 管理后台 — Vue Web
 
@@ -268,7 +265,7 @@
 </p>
 
 <p align="center">
-  
+  <img width="888" height="1131" alt="微信图片_20260623160402_46_4" src="https://github.com/user-attachments/assets/33c619e4-0fea-4d2c-8535-e18089bc998c" />
 </p>
 
 <p align="center">
