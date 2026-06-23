@@ -1,4 +1,5 @@
-<img width="585" height="1266" alt="微信图片_20260623160213_41_4" src="https://github.com/user-attachments/assets/b183b013-f6db-406d-9d1d-617009ca8686" />
+<img width="430" height="430" alt="微信图片_20260623160744_47_4" src="https://github.com/user-attachments/assets/878e9137-a540-45b9-b26f-4191c5243e89" />
+
 # 🎁 泡泡互换 — 盲盒交换小程序
 
 > **SpringBoot + Vue + UniApp 全栈项目 | 微信小程序 | 计算机毕业设计优选**
