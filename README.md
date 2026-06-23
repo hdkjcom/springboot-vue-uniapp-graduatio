@@ -292,10 +292,6 @@
 
 如果这个项目对你有帮助，请点个 Star ⭐ 支持一下！
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x200/6C5CE7/FFFFFF?text=Star+History+Chart" alt="Star History" width="800"/>
-</p>
-
 ---
 
 <p align="center">
