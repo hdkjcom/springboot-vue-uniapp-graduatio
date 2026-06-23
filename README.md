@@ -1,9 +1,10 @@
-<img width="430" height="430" alt="微信图片_20260623160744_47_4" src="https://github.com/user-attachments/assets/878e9137-a540-45b9-b26f-4191c5243e89" />
-
 # 🎁 泡泡互换 — 盲盒交换小程序
 
 > **SpringBoot + Vue + UniApp 全栈项目 | 微信小程序 | 计算机毕业设计优选**
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/878e9137-a540-45b9-b26f-4191c5243e89" alt="泡泡互换" width="400"/>
+</p>
 
 <p align="center">
   <b>🔴 已上线运行的真实项目</b> &nbsp;|&nbsp;
@@ -80,7 +81,7 @@
 | 完整审计日志 | `user_credit_log` 记录每次变动，含原因、关联订单号、变动前后余额 |
 | 后台手动调整 | 管理后台支持人工加减信用分 |
 
-### 🎨 拼豆图纸生成引擎（独家功能）
+### 🎨 拼豆图纸生成引擎（独家功能 🆕）
 | 功能 | 说明 |
 |------|------|
 | 照片→像素图纸 | 上传任意照片，一键生成拼豆像素图纸 |
@@ -91,7 +92,6 @@
 | 色号标注 | 每个格子上标注色号（C1、D2、M3 等），照着买豆子就行 |
 | 材料清单 | 自动统计每种颜色需要多少颗豆子，下单直接抄 |
 | 历史管理 | 生成的图纸自动保存，支持查看/删除 |
-| 管理后台 | 管理员可查看/删除用户生成的图纸 |
 
 ### 👥 社区频道
 | 功能 | 说明 |
@@ -101,7 +101,6 @@
 | 点赞/取消点赞 | 唯一约束，防重复点赞 |
 | 关注/取关 | 用户关注体系，关注列表 + 粉丝列表 |
 | 浏览量统计 | 笔记阅读量实时统计 |
-| 管理后台审核 | 管理员可查看/删除社区内容 |
 
 ### 💬 实时聊天
 | 功能 | 说明 |
@@ -214,23 +213,30 @@
 | 工程文档 | API 文档 / 系统设计书 / 部署指南 |
 
 ---
-<img width="430" height="430" alt="微信图片_20260623160744_47_4" src="https://github.com/user-attachments/assets/2b3c6203-8fae-40c6-89c6-3ad5d26b4622" />
 
 ## 📱 功能截图
 
+### 小程序端
 
-### 用户端 — 小程序
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a0cb5649-c48a-4027-b275-e0f894af9d48" width="240" alt="首页"/>
+  <img src="https://github.com/user-attachments/assets/d6afb614-2abf-4fae-b635-66a7477e873d" width="240" alt="信息流"/>
+  <img src="https://github.com/user-attachments/assets/0b17175c-08a4-4b85-9442-48ba5207c07e" width="240" alt="发布"/>
+</p>
 
-<img width="430" height="430" alt="微信图片_20260623160744_47_4" src="https://github.com/user-attachments/assets/a0cb5649-c48a-4027-b275-e0f894af9d48" />
-<img width="585" height="1266" alt="微信图片_20260623160213_41_4" src="https://github.com/user-attachments/assets/d6afb614-2abf-4fae-b635-66a7477e873d" />
-<img width="585" height="1266" alt="微信图片_20260623160214_42_4" src="https://github.com/user-attachments/assets/0b17175c-08a4-4b85-9442-48ba5207c07e" />
-<img width="585" height="1266" alt="微信图片_20260623160216_43_4" src="https://github.com/user-attachments/assets/cfc6c805-8be2-4bf5-b03a-a8c47fb9aabc" />
-<img width="585" height="1266" alt="微信图片_20260623160218_44_4" src="https://github.com/user-attachments/assets/55008437-741f-4c5e-a5ed-eab5f0417ebc" />
-<img width="585" height="1266" alt="微信图片_20260623160220_45_4" src="https://github.com/user-attachments/assets/8d484b0d-6b57-48af-9e88-8e0dad5850d8" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cfc6c805-8be2-4bf5-b03a-a8c47fb9aabc" width="240" alt="交换详情"/>
+  <img src="https://github.com/user-attachments/assets/55008437-741f-4c5e-a5ed-eab5f0417ebc" width="240" alt="拼豆图纸"/>
+  <img src="https://github.com/user-attachments/assets/8d484b0d-6b57-48af-9e88-8e0dad5850d8" width="240" alt="个人中心"/>
+</p>
 
+### 管理后台
 
-### 管理后台 — Vue Web
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b3c6203-8fae-40c6-89c6-3ad5d26b4622" width="430" alt="管理后台"/>
+</p>
 
+> 📸 管理后台包含 13 个功能模块，更多截图联系获取
 
 ---
 
@@ -269,7 +275,7 @@
 </p>
 
 <p align="center">
-  <img width="888" height="1131" alt="微信图片_20260623160402_46_4" src="https://github.com/user-attachments/assets/33c619e4-0fea-4d2c-8535-e18089bc998c" />
+  <img src="https://github.com/user-attachments/assets/33c619e4-0fea-4d2c-8535-e18089bc998c" width="260" alt="微信二维码"/>
 </p>
 
 <p align="center">
