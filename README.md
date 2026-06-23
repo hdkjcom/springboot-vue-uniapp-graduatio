@@ -233,7 +233,10 @@
 ### 管理后台
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2b3c6203-8fae-40c6-89c6-3ad5d26b4622" width="430" alt="管理后台"/>
+  <img width="1897" height="935" alt="微信图片_20260623170613_48_4" src="https://github.com/user-attachments/assets/d361ef56-00a3-4e9e-8739-ba400448693b" />
+  <img width="1919" height="947" alt="微信图片_20260623170619_49_4" src="https://github.com/user-attachments/assets/bdd20510-e1da-49df-95e7-3de9df6b0938" />
+  <img width="1913" height="945" alt="微信图片_20260623170642_50_4" src="https://github.com/user-attachments/assets/e2986f8d-b809-4015-841d-693ec73f31dd" />
+  <img width="1909" height="943" alt="微信图片_20260623170741_51_4" src="https://github.com/user-attachments/assets/3c839d80-3347-4c16-9e67-69f46c70c955" />
 </p>
 
 > 📸 管理后台包含 13 个功能模块，更多截图联系获取
