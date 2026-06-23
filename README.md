@@ -1,4 +1,5 @@
-<img width="585" height="1266" alt="微信图片_20260623160213_41_4" src="https://github.com/user-attachments/assets/b183b013-f6db-406d-9d1d-617009ca8686" /># 🎁 泡泡互换 — 盲盒交换小程序
+<img width="585" height="1266" alt="微信图片_20260623160213_41_4" src="https://github.com/user-attachments/assets/b183b013-f6db-406d-9d1d-617009ca8686" />
+# 🎁 泡泡互换 — 盲盒交换小程序
 
 > **SpringBoot + Vue + UniApp 全栈项目 | 微信小程序 | 计算机毕业设计优选**
 
@@ -219,12 +220,13 @@
 
 ### 用户端 — 小程序
 
-<img width="430" height="430" alt="微信图片_20260623160744_47_4" src="https://github.com/user-attachments/assets/d608a226-8a29-459e-a86f-2ad4f66d7251" />
-<img width="585" height="1266" alt="微信图片_20260623160220_45_4" src="https://github.com/user-attachments/assets/78f5c9c3-64f1-4ac4-a340-83e94b7d6867" />
-<img width="585" height="1266" alt="微信图片_20260623160213_41_4" src="https://github.com/user-attachments/assets/3e2d6eb0-d071-4e70-ad1e-315e407184cd" />
-<img width="585" height="1266" alt="微信图片_20260623160214_42_4" src="https://github.com/user-attachments/assets/708cfcf1-9111-45a1-b404-6881ff1b85df" />
-<img width="585" height="1266" alt="微信图片_20260623160216_43_4" src="https://github.com/user-attachments/assets/bb7a99b8-75a4-4537-aac6-b8ac5d48a169" />
-<img width="585" height="1266" alt="微信图片_20260623160218_44_4" src="https://github.com/user-attachments/assets/e16f7a50-405f-412d-a6de-b8070df22fdf" />
+<img width="430" height="430" alt="微信图片_20260623160744_47_4" src="https://github.com/user-attachments/assets/a0cb5649-c48a-4027-b275-e0f894af9d48" />
+<img width="585" height="1266" alt="微信图片_20260623160213_41_4" src="https://github.com/user-attachments/assets/d6afb614-2abf-4fae-b635-66a7477e873d" />
+<img width="585" height="1266" alt="微信图片_20260623160214_42_4" src="https://github.com/user-attachments/assets/0b17175c-08a4-4b85-9442-48ba5207c07e" />
+<img width="585" height="1266" alt="微信图片_20260623160216_43_4" src="https://github.com/user-attachments/assets/cfc6c805-8be2-4bf5-b03a-a8c47fb9aabc" />
+<img width="585" height="1266" alt="微信图片_20260623160218_44_4" src="https://github.com/user-attachments/assets/55008437-741f-4c5e-a5ed-eab5f0417ebc" />
+<img width="585" height="1266" alt="微信图片_20260623160220_45_4" src="https://github.com/user-attachments/assets/8d484b0d-6b57-48af-9e88-8e0dad5850d8" />
+
 
 ### 管理后台 — Vue Web
 
